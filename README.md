@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Masa!
 
-<!--
-**lovehakumai/lovehakumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am...
 
-Here are some ideas to get you started:
+- 📍 Based in Saitama, Japan / Working in Tokyo
+- 💻 Working as an In-house Engineer (Salesforce, Tableau, Looker Studio, Web Apps)
+- 🚀 Learning Frontend Engineering with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About My Learning Journey
+
+- 📖 Started learning from HTML basics around June 2024
+- 🛠️ Currently self-studying React, TypeScript, Vercel, and Firebase through E-Commerce site development
+- 🌍 Passionate about the Philippines and deeply connected with my friends there
+
+## Current Focus
+
+```js
+const currentLearning = {
+  course: "Self-Study via E-Commerce Development",
+  technologies: ["React", "TypeScript", "Vercel", "Firebase"],
+  status: "In Progress"
+};
+```
+
+## Let's Connect!
+
+- 🏙️ Tokyo, Japan
+- ✉️ www.linkedin.com/in/ura-masaharu-3818642b6
