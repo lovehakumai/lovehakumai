@@ -25,8 +25,12 @@ Now I'm shifting my focus to Snowflake/dbt/Streamlit which is called MDS(Modern 
 
 ---
 
-## 📁 Featured Projects
-### 
+## 📁 Featured Projects  
+### Customer Lifetime Value (CLV) & Cohort Analytics Platform => [dbt](https://github.com/lovehakumai/olist_cohort_analytics_dbt) [Streamlit](https://github.com/lovehakumai/olist_cohort_analytics_snowflake)  
+Data Pipeline and Visualization for Ecommerce field, specialized to have cohort analytics. Runs with github Runners.
+
+### Revenue Leakage Detection & MRR Dashboard => [dbt](https://github.com/lovehakumai/monitor_revenue_leakage_dbt) [Streamlit](https://github.com/lovehakumai/monitor_revenue_leakage_snowflake)  
+Data Pipeline and Visualization for Saas Subscription Serviece. this is for monitoring Monthly Reccursive Revenue(MRR) and users daily logs to check the incorrect usage. Consumed credit in streamlit is also shown.
 
 ---
 
