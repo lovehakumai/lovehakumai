@@ -47,9 +47,9 @@ Now I'm shifting my focus to Snowflake/dbt/Streamlit which is called MDS(Modern 
 - **Tableau Certified (Data Analyst / Consultant / Specialist)**
 - **SnowPro Core(CO2-002)**
 
-- **Planning to take in 2026**
--   SnowPro Advanced Data Engineering
--   dbt Analytics engineer certification exam
+- **Planned Certifications in 2026**
+  - SnowPro Advanced Data Engineering
+  - dbt Analytics engineer certification exam
 
 ---
 
